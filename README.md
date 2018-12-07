@@ -29,4 +29,6 @@ Place |Team or User | Public Score | Private Score | Summary of Model
 2 | valilenk | 0.289542    | 0.259703 | Tried many models, but simplified final solution to a single neural network, built solution in Python on top of fast.ai library and Facebook’s PyTorch library. Single model predicts hourly forecasts, and then he aggregates for daily and weekly (simplest implementation of the winners). Created working day and holiday features.
 3 | LastRocky | 0.298222 | 0.261503 |Trained model on training data, and cold-start data. Tuned hyperparameters by validating performance on the cold start data (so model is tuned to the cold-start buildings). Prediction models, built one LSTM based neural network and one lightgbm model. Built both an hourly model and a daily model (daily model used for weekly predictions as well) Built solution in Python on top of Google’s Tensorflow and Keras libraries.
 
+Short write-ups describing solutions can be found under the `reports/` directory in each competitor's code. For the first place team, addition slides describing the solution are included at the top level of this repository.
+
 #### Benchmark Blog Post: ["Benchmark - How To Use An LSTM For Timeseries And The Cold-Start Problem"](http://drivendata.co/blog/benchmark-cold-start-lstm-deep-learning/)
