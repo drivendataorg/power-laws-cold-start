@@ -1,0 +1,25 @@
+# no .csv
+*.csv
+
+# no json
+*.json
+
+# no h5
+*.h5
+
+# no .hdf5
+*.hdf5
+
+# no .dat
+*.dat
+
+# no .pyc
+*.pyc
+
+# no __pyche__
+__pycache__
+
+# no compressed package
+*.tgz
+*.zip
+
