@@ -17,9 +17,16 @@
 *.pyc
 
 # no __pyche__
-__pycache__
+__pycache__/
 
 # no compressed package
 *.tgz
 *.zip
 
+# mac dirs
+.DS_Store
+__MACOSX
+
+# no images
+*.pdf
+*png
