@@ -26,7 +26,3 @@ __pycache__/
 # mac dirs
 .DS_Store
 __MACOSX
-
-# no images
-*.pdf
-*png
