@@ -19,6 +19,10 @@
 # no __pyche__
 __pycache__/
 
+# no package eggs
+*.eggs
+*.egg-info
+
 # no compressed package
 *.tgz
 *.zip
