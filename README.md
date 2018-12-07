@@ -1,4 +1,6 @@
-![<img src="https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png">](https://www.drivendata.org/)
+<a href="https://www.drivendata.org/">
+  <img src="https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png" alt="DrivenData Logo">
+</a>
 <br><br>
 
 ![Banner Image](https://s3.amazonaws.com/drivendata-public-assets/se-challenge-1-banner.jpg)
