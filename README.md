@@ -5,7 +5,7 @@
 
 ![Banner Image](https://s3.amazonaws.com/drivendata-public-assets/se-challenge-1-banner.jpg)
 
-#  Power Laws: Forecasting Energy Consumption
+#  Power Laws: Cold Start Energy Forecasting
 
 ## Goal of the Competition
 
