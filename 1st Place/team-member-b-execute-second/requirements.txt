@@ -85,7 +85,7 @@ pytz==2018.5
 PyYAML==3.13
 pyzmq==17.1.2
 qtconsole==4.4.1
-requests==2.19.1
+requests==2.20.0
 requests-download==0.1.2
 rsa==3.4.2
 s3transfer==0.1.13
