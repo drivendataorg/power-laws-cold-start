@@ -108,7 +108,7 @@ testpath==0.3.1
 tornado==5.1
 tqdm==4.25.0
 traitlets==4.3.2
-urllib3==1.23
+urllib3==1.24.2
 watermark==1.6.1
 wcwidth==0.1.7
 webencodings==0.5.1
