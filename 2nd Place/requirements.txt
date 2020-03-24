@@ -2,7 +2,7 @@ arrow==0.12.1
 asn1crypto==0.24.0
 backcall==0.1.0
 binaryornot==0.4.4
-bleach==3.0.2
+bleach==3.1.2
 certifi==2018.10.15
 cffi==1.11.5
 chardet==3.0.4
