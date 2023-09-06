@@ -3,7 +3,7 @@
 
 ![Banner Image](https://s3.amazonaws.com/drivendata-public-assets/se-challenge-1-banner.jpg)
 
-#  Power Laws: Cold Start Energy Forecasting
+# Power Laws: Cold Start Energy Forecasting
 
 ## Goal of the Competition
 
@@ -16,10 +16,9 @@ The goal of this challenge is to build an algorithm which provides an accurate f
 The best algorithms were generally ensembles comprised of deep learning and XGBoost models. The winners all thought carefully about how to combine the limited historical consumption information provided with useful meta-data (for example, holidays) correlated to consumption trends.
 
 ## What's in this Repository
-This repository contains code from winning competitors in the [Power Laws: Cold Start Energy Forecasting](https://www.drivendata.org/competitions/55/schneider-cold-start/) DrivenData challenge.
+This repository contains code from winning competitors in the [Power Laws: Cold Start Energy Forecasting](https://www.drivendata.org/competitions/55/schneider-cold-start/) DrivenData challenge. Code for all winning solutions are open source under the MIT License.
 
-#### Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).
-
+**Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
 ## Winning Submissions
 
@@ -31,4 +30,6 @@ Place |Team or User | Public Score | Private Score | Summary of Model
 
 Short write-ups describing solutions can be found under the `reports/` directory in each competitor's code. For the first place team, addition slides describing the solution are included at the top level of this repository.
 
-#### Benchmark Blog Post: ["Benchmark - How To Use An LSTM For Timeseries And The Cold-Start Problem"](http://drivendata.co/blog/benchmark-cold-start-lstm-deep-learning/)
+**Benchmark Blog Post: ["Benchmark - How To Use An LSTM For Timeseries And The Cold-Start Problem"](https://drivendata.co/blog/benchmark-cold-start-lstm-deep-learning/)**
+
+**["Meet the Winners" Blog Post](https://drivendata.co/blog/power-laws-cold-start-winners)**
